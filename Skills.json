@@ -1,7 +1,7 @@
 {
 	"file": "https://raw.githubusercontent.com/ppshanth/UpSet/main/Skill%20Allocations%20Wide%20Format.csv",
 	"name": "Skills - GitHub",
-	"header": 1,
+	"header": 0,
 	"separator": ",",
 	"skip": 0,
 	"meta": [
