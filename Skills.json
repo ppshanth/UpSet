@@ -6,12 +6,8 @@
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "Name" },
-		{ "type": "float", "index": 12, "name": "BobJ_Avg", "min": 0, "max": 1 },
-		{ "type": "float", "index": 13, "name": "PBI_Avg", "min": 0, "max": 1 },
 		{ "type": "float", "index": 14, "name": "SSIS_Avg", "min": 0, "max": 1 },
-		{ "type": "float", "index": 15, "name": "T-SQL_Avg", "min": 0, "max": 1 },
-		{ "type": "float", "index": 16, "name": "Py_Avg", "min": 0, "max": 1 },
-		{ "type": "float", "index": 17, "name": "Java_Avg", "min": 0, "max": 1 }
+		{ "type": "float", "index": 15, "name": "T-SQL_Avg", "min": 0, "max": 1 }
 	],
 	"sets": [
 		{ "format": "binary", "start": 1, "end": 11}
